@@ -43,6 +43,13 @@ I turn ideas into working apps. I love clean code, cool UIs and learning somethi
   <img alt="snake" src="https://raw.githubusercontent.com/pankajkumar-labs/pankajkumar-labs/output/github-snake.svg" />
 </picture>
 
+### 🌐 Let's Connect
+<p>
+  <a href="https://www.linkedin.com/in/pankaj-kumar-a55b4830a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/pankajprajapat_07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:pankajsvc207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 <p align="center"><i>See you in the next commit 🚀</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:000000&height=120&section=footer" width="100%"/>
